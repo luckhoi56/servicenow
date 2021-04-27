@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Loaner Request Detail Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 04:00:16</sys_created_on>
+        <sys_id>d98ddd382f732010899c55f62799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request Detail Screen View Config</sys_name>
+        <sys_package display_value="Loaner Request " source="x_558150_loaner_re">0bb911b42f732010899c55f62799b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request ">0bb911b42f732010899c55f62799b6ae</sys_scope>
+        <sys_update_name>sys_sg_view_config_d98ddd382f732010899c55f62799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 04:00:16</sys_updated_on>
+        <table>x_558150_loaner_re_loaner_request</table>
+        <template display_value="Applet 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=d98ddd382f732010899c55f62799b643"/>
+</record_update>

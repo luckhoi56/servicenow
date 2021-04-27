@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Loaner Request)">3d8ddd382f732010899c55f62799b673</button>
+        <item_parameter display_value="Loaner Request location">f98ddd382f732010899c55f62799b671</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-26 04:00:18</sys_created_on>
+        <sys_id>f98ddd382f732010899c55f62799b689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f98ddd382f732010899c55f62799b671</sys_name>
+        <sys_package display_value="Loaner Request " source="x_558150_loaner_re">0bb911b42f732010899c55f62799b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request ">0bb911b42f732010899c55f62799b6ae</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f98ddd382f732010899c55f62799b689</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-26 04:00:18</sys_updated_on>
+        <ui_parameter display_value="Location">b58ddd382f732010899c55f62799b685</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

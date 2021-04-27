@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Loaner Request" max_length="40" name="x_558150_loaner_re_loaner_request" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Loaner Number" max_length="40" name="loaner_number" type="string"/>
+        <element hint="new field for demo purpose" label="New Field" max_length="40" name="new_field" reference="x_558150_loaner_re_loaner_request" type="string"/>
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+    </element>
+</database>
